@@ -300,7 +300,7 @@ function initScrollToTop() {
     scrollToTopBtn.style.cssText = `
         position: fixed;
         bottom: 30px;
-        right: 30px;
+        left: 30px;
         background: #ff6b35;
         color: white;
         border: none;
